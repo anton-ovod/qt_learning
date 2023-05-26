@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>1_background_image.jpg</file>
+        <file>background_other.jpg</file>
+    </qresource>
+    <qresource prefix="/stylesheets">
+        <file>MacOS.qss</file>
+    </qresource>
+</RCC>
