@@ -28,7 +28,7 @@ Follow these steps to run a project:
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/your-username/qt-projects.git](https://github.com/anton-ovod/qt_learning.git)
+   git clone https://github.com/anton-ovod/qt_learning.git
    ```
 2. Change into the project directory:
     ```bash
